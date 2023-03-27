@@ -1,6 +1,3 @@
 # lstm-lyrics-generation
 
-### Week 1 Goals
-- Figure out how to clean data (Dylan)
-- Speak with instructors on how to use cloud platforms
-- Research good LSTM architecture design (Junseok)
+For this project, Dylan Bowman and Junseok Yang used the LSTM module from PyTorch to generate song lyrics given a large (>9 GB) dataset from Genius. The model was trained on the HAL cluster at the University of Illinois.
